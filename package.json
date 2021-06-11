@@ -1,0 +1,21 @@
+{
+  "name": "dcikigai_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archana002/DCikigai_SERVER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archana002/DCikigai_SERVER/issues"
+  },
+  "homepage": "https://github.com/Archana002/DCikigai_SERVER#readme"
+}
