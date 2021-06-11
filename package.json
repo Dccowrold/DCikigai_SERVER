@@ -5,7 +5,7 @@
   "main": "serer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Archana002/DCikigai_SERVER/issues"
   },
-  "homepage": "https://github.com/Archana002/DCikigai_SERVER#readme"
+  "homepage": "https://github.com/Archana002/DCikigai_SERVER#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
